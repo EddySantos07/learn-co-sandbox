@@ -11,4 +11,4 @@ def say_name (name)
   puts "#{name}"
 end
 
-say_name('supEddy')
+say_name('sup fgt')
