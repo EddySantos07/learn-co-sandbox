@@ -7,3 +7,8 @@
 #   puts "Eddy"
 # end
 
+def say_name 
+  puts 'Eddy'
+end
+
+say_name
