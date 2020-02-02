@@ -7,8 +7,8 @@
 #   puts "Eddy"
 # end
 
-def say_name ()
-  puts 'Eddy'
+def say_name (name)
+  puts "#{name}"
 end
 
-say_name
+say_name('Eddy')
